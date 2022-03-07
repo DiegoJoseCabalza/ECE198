@@ -27,5 +27,6 @@ files labelled with doubt are codes for some reason unable to plot despite being
 there are other sample codes not saved for the same reason as mentioned
 
 Colacion_PSO(pyswarms)
-> pyswarms package installed 
+> pyswarms package necessary to run code
+  install pyswarms by typing in "pip install pyswarms" in python terminal
 > jupyter notebook is used for editing code
